@@ -1,0 +1,41 @@
+body{
+    background-color: whitesmoke;
+}
+header {
+    font-family:cursive;
+    padding-right: 1000px; ;
+}
+main{
+background-color: khaki;
+
+}
+main section nav h3 {
+    float: right;
+    padding-left: 20px;
+    margin-left:20px;
+    
+}
+main section nav h3 a{
+    text-decoration:none;
+    margin-inline-end: 20px;
+    font-size: 25px;
+    color:#282846;
+    }
+#img{
+    padding-left:120px ;
+}
+
+#font{
+    font-family:inherit;
+    font-size: 20px;
+    margin:50px;
+    padding-left: 65px;
+    width: 800;
+    
+}
+section ul  {
+    list-style-type: upper-roman;
+    padding-left: 120px;
+        
+
+}
